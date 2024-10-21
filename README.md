@@ -1,2 +1,2 @@
-# MD
-Molecular Dynamics, LAMMPS
+# AlScN
+
